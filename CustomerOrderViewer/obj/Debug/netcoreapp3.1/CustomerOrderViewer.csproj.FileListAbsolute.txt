@@ -1,0 +1,5 @@
+E:\VS 2019\Workspace\CustomerOrderViewer\CustomerOrderViewer\bin\Debug\netcoreapp3.1\CustomerOrderViewer.exe
+E:\VS 2019\Workspace\CustomerOrderViewer\CustomerOrderViewer\obj\Debug\netcoreapp3.1\CustomerOrderViewer.csprojAssemblyReference.cache
+E:\VS 2019\Workspace\CustomerOrderViewer\CustomerOrderViewer\obj\Debug\netcoreapp3.1\CustomerOrderViewer.AssemblyInfoInputs.cache
+E:\VS 2019\Workspace\CustomerOrderViewer\CustomerOrderViewer\obj\Debug\netcoreapp3.1\CustomerOrderViewer.AssemblyInfo.cs
+E:\VS 2019\Workspace\CustomerOrderViewer\CustomerOrderViewer\obj\Debug\netcoreapp3.1\CustomerOrderViewer.csproj.CoreCompileInputs.cache
